@@ -267,6 +267,7 @@ print('R2 score is {}'.format(r2))
 
 # In[ ]:
 
+#Random Forest is better
 
 
 
